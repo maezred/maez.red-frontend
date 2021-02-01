@@ -1,0 +1,11 @@
+theme: jekyll-theme-merlot
+title: "maez.red"
+description: "Home of Mae"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      auth0_respond_to: "maez.red"
+      auth0_domain: "maezred.us.auth0.com"
+      auth0_client_id: "RHUx3auDIzQcRWoXfDAa3kqJWQWUPf91"

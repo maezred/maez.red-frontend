@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JS Client</title>
+
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/maezred.js"></script>
+    <script>
+    var uri = maezred.launch($(document).ready)
+    </script>
+</head>
+<body>
+
+<div id="root">Loading React...</div>
+
+<p>Seems this page isn't around... I looked everywhere for <script>document.write(uri.file)</script> ...
+
+Should it ... be around ... <script>document.write(uri.path)</script> ?
+
+<script>document.write(`Maybe you would like to <a href="https://github.com/moltendorf/maez.red-frontend/new/master?filename=${uri.path}">propose creating this page on GitHub</a>?`)</script></p>
+</body>
+</html>
