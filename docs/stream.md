@@ -1,1 +1,1 @@
-{% include_relative ../stream.html %}
+{% include stream.html %}
