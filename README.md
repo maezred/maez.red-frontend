@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[![pages-build-deployment](https://github.com/moltendorf/maez.red-frontend/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/moltendorf/maez.red-frontend/actions/workflows/pages/pages-build-deployment)
+
 You can use the [editor on GitHub](https://github.com/moltendorf/maez.red-frontend/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
