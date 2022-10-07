@@ -2,8 +2,8 @@
 title: "Mae'z Ethereum"
 ---
 ### Ethereum {% include ethereum-svg.html %} 
-#### Donations @ [`maez.eth`](https://etherscan.io/enslookup-search?search=maez.eth) always welcome!!
-![0x9C8422D0cbCE721E4dB1a4B8d25221194FcCAfD5]({{ '/assets/image/qr-0x9c8422d0cbce7.svg' | relative_url }})
+#### Donations @ [`maez.eth`](https://etherscan.io/nft/0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85/112664262906390249624896624522168665269373410161761662826779783119465801390295) always welcome!!
+![0x9C8422D0cbCE721E4dB1a4B8d25221194FcCAfD5 QR Code]({{ '/assets/image/qr-0x9c8422d0cbce7.svg' | relative_url }})
 
 Raw address :: [`0x9C8422D0cbCE721E4dB1a4B8d25221194FcCAfD5`](https://etherscan.io/address/0x9c8422d0cbce721e4db1a4b8d25221194fccafd5)
 
