@@ -1,3 +1,6 @@
+---
+title: "Mae'z Ethereum"
+---
 ### Ethereum {% include ethereum-svg.html %} 
 #### Donations @ [`maez.eth`](https://etherscan.io/enslookup-search?search=maez.eth) always welcome!!
 ![0x9C8422D0cbCE721E4dB1a4B8d25221194FcCAfD5]({{ '/assets/image/qr-0x9c8422d0cbce7.svg' | relative_url }})
